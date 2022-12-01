@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramanp45
 - 👀 I’m interested in Web Development , Machine learning
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning data analysis , visualization and web development
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me rmnpatel21rp@gmail.com
 
